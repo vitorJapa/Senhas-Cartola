@@ -1,0 +1,4 @@
+# O cofre com suas contas NUNCA vai pro git
+.env
+*.env
+cofre-huntera-backup-*.env
